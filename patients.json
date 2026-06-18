@@ -1,59 +1,57 @@
 {
-  "patients": [
-    {
-      "patientId": "P001",
-      "name": "Rahul Sharma",
-      "age": 32,
-      "gender": "Male",
-      "bloodGroup": "B+",
-      "phone": "+91-9876543210",
-      "address": "Patna, Bihar",
-      "diagnosis": "Hypertension",
-      "admissionDate": "2025-01-15"
-    },
-    {
-      "patientId": "P002",
-      "name": "Priya Verma",
-      "age": 28,
-      "gender": "Female",
-      "bloodGroup": "O+",
-      "phone": "+91-9876543211",
-      "address": "Gaya, Bihar",
-      "diagnosis": "Diabetes",
-      "admissionDate": "2025-02-10"
-    },
-    {
-      "patientId": "P003",
-      "name": "Amit Kumar",
-      "age": 45,
-      "gender": "Male",
-      "bloodGroup": "A+",
-      "phone": "+91-9876543212",
-      "address": "Muzaffarpur, Bihar",
-      "diagnosis": "Asthma",
-      "admissionDate": "2025-03-05"
-    },
-    {
-      "patientId": "P004",
-      "name": "Sneha Singh",
-      "age": 36,
-      "gender": "Female",
-      "bloodGroup": "AB+",
-      "phone": "+91-9876543213",
-      "address": "Bhagalpur, Bihar",
-      "diagnosis": "Migraine",
-      "admissionDate": "2025-04-20"
-    },
-    {
-      "patientId": "P005",
-      "name": "Vikash Gupta",
-      "age": 52,
-      "gender": "Male",
-      "bloodGroup": "O-",
-      "phone": "+91-9876543214",
-      "address": "Darbhanga, Bihar",
-      "diagnosis": "Arthritis",
-      "admissionDate": "2025-05-12"
-    }
-  ]
+  "P001": {
+    "name": "Rahul Sharma",
+    "age": 32,
+    "gender": "Male",
+    "bloodGroup": "B+",
+    "phone": "+91-9876543210",
+    "address": "Patna, Bihar",
+    "diagnosis": "Hypertension",
+    "admissionDate": "2025-01-15",
+    "height": "1.8m"
+  },
+  "P002": {
+    "name": "Priya Verma",
+    "age": 28,
+    "gender": "Female",
+    "bloodGroup": "O+",
+    "phone": "+91-9876543211",
+    "address": "Gaya, Bihar",
+    "diagnosis": "Diabetes",
+    "admissionDate": "2025-02-10",
+    "height": "1.85m"
+  },
+  "P003": {
+    "name": "Amit Kumar",
+    "age": 45,
+    "gender": "Male",
+    "bloodGroup": "A+",
+    "phone": "+91-9876543212",
+    "address": "Muzaffarpur, Bihar",
+    "diagnosis": "Asthma",
+    "admissionDate": "2025-03-05",
+    "height": "1.6m"
+  },
+  "P004": {
+    "name": "Sneha Singh",
+    "age": 36,
+    "gender": "Female",
+    "bloodGroup": "AB+",
+    "phone": "+91-9876543213",
+    "address": "Bhagalpur, Bihar",
+    "diagnosis": "Migraine",
+    "admissionDate": "2025-04-20",
+    "height": "1.58m"
+  },
+  "P005": {
+    "name": "Vikash Gupta",
+    "age": 52,
+    "gender": "Male",
+    "bloodGroup": "O-",
+    "phone": "+91-9876543214",
+    "address": "Darbhanga, Bihar",
+    "diagnosis": "Arthritis",
+    "admissionDate": "2025-05-12",
+    "height": "1.77m"
+  }
 }
