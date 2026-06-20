@@ -1,57 +1,6 @@
-{
-  "P001": {
-    "name": "Rahul Sharma",
-    "age": 32,
-    "gender": "Male",
-    "bloodGroup": "B+",
-    "phone": "+91-9876543210",
-    "address": "Patna, Bihar",
-    "diagnosis": "Hypertension",
-    "admissionDate": "2025-01-15",
-    "height": "1.8m"
-  },
-  "P002": {
-    "name": "Priya Verma",
-    "age": 28,
-    "gender": "Female",
-    "bloodGroup": "O+",
-    "phone": "+91-9876543211",
-    "address": "Gaya, Bihar",
-    "diagnosis": "Diabetes",
-    "admissionDate": "2025-02-10",
-    "height": "1.85m"
-  },
-  "P003": {
-    "name": "Amit Kumar",
-    "age": 45,
-    "gender": "Male",
-    "bloodGroup": "A+",
-    "phone": "+91-9876543212",
-    "address": "Muzaffarpur, Bihar",
-    "diagnosis": "Asthma",
-    "admissionDate": "2025-03-05",
-    "height": "1.6m"
-  },
-  "P004": {
-    "name": "Sneha Singh",
-    "age": 36,
-    "gender": "Female",
-    "bloodGroup": "AB+",
-    "phone": "+91-9876543213",
-    "address": "Bhagalpur, Bihar",
-    "diagnosis": "Migraine",
-    "admissionDate": "2025-04-20",
-    "height": "1.58m"
-  },
-  "P005": {
-    "name": "Vikash Gupta",
-    "age": 52,
-    "gender": "Male",
-    "bloodGroup": "O-",
-    "phone": "+91-9876543214",
-    "address": "Darbhanga, Bihar",
-    "diagnosis": "Arthritis",
-    "admissionDate": "2025-05-12",
-    "height": "1.77m"
-  }
-}
+{"P001": {"name": "Rahul Sharma", "age": 32, "gender": "Male", "bloodGroup": "B+", "phone": "+91-9876543210", "address": "Patna, Bihar", "height": "1.8m", "weight": "78kg", "bmi": 24.07, "verdict": "Normal"},
+ "P002": {"name": "Priya Verma", "age": 28, "gender": "Female", "bloodGroup": "O+", "phone": "+91-9876543211", "address": "Gaya, Bihar", "height": "1.85m", "weight": "72kg", "bmi": 21.03, "verdict": "Normal"}, 
+ "P003": {"name": "Amit Kumar", "age": 45, "gender": "Male", "bloodGroup": "A+", "phone": "+91-9876543212", "address": "Muzaffarpur, Bihar", "height": "1.6m", "weight": "65kg", "bmi": 25.39, "verdict": "Overweight"}, 
+ "P004": {"name": "Sneha Singh", "age": 36, "gender": "Female", "bloodGroup": "AB+", "phone": "+91-9876543213", "address": "Bhagalpur, Bihar", "height": "1.58m", "weight": "58kg", "bmi": 23.23, "verdict": "Normal"}, 
+ "P005": {"name": "Vikash Gupta", "age": 52, "gender": "Male", "bloodGroup": "O-", "phone": "+91-9876543214", "address": "Darbhanga, Bihar", "height": "1.77m", "weight": "82kg", "bmi": 26.17, "verdict": "Overweight"}, 
+"P008": {"name": "aarish", "age": 21, "gender": "male", "bloodGroup": "b+ve", "phone": "950866178", "address": "mango", "height": 1.7, "weight": 70.0, "bmi": 24.22, "verdict": "Normal"}}
