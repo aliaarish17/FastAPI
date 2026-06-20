@@ -25,5 +25,8 @@ patient_dict = {'name': 'Aarish',
                 'address': address1}
 patient1 =Patient(**patient_dict)   #TYPE COERCISON YAHA HPTA HAI 
 
-print(patient1)
-print(patient1.address.pin)
+temp = patient1.model_dump()
+print(temp)
+
+json_temp = patient1.model_dump_json()
+print(json_temp)
