@@ -56,7 +56,6 @@ def main():
             break
         else:
             print("invalid choice")
-
     con.close()
 
 
